@@ -1,5 +1,6 @@
 # Best compiled languages
 A very biased list of compiled programming languages that I consider to be the best.
+
 There are some question marks because I'm not sure about that criteria for that particular language. I haven't tried Odin or DLang yet.
 Here is a very biased comparison table:
 
