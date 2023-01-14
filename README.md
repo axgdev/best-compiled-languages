@@ -15,3 +15,4 @@ Here is a very biased comparison table:
 |System libraries dependencies|Low|Low|Low|Low|Low, small std lib|???|OpenSSL|OpenSSL|OpenSSL or MbedTLS|Libcurl|
 |Manual Memory management|Yes|Yes|Yes, but good GC|Yes|Yes|Yes|Yes, stdlib needs GC|???|Buggy|Yes, stdlib needs GC|
 |Syntax Modernity|Low|Medium|Medium|Medium|Medium|High|High|High|Medium|Medium?|
+|Syntax Familiarity|C (easy, macros make it hard)|C-like (medium?, templates can be hard)|C-like (easy)|C-like (steep learning curve)|C-like (medium learning curve)|C-like (easy?)|Python-Pascal-like? (easy?)|Ruby-like (medium?)|Go-like (easy)|C-like (easy?)|
