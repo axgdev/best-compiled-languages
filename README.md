@@ -10,8 +10,8 @@ Here is a very biased comparison table:
 |Multiplatform|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Small compiler|tcc \~620KB|\~200MB g++|142MB|414.1 MB|42.3MB tar.xz|44 MB zip|11.4MB tar.xz|\~40MB tar.gz|6.6MB zip (uses tcc)|\~50MB tar.xz|
 |Compiler speed|Fast|Slow|Fast|Slow|Medium|???|Medium|???|Fast (uses tcc)|???|
-|Maturity|High|High|High|High|Medium|???|High?|High?|Low? Lots of leaks|High?|
-|Binary size|Small|Small|Medium|Small|Small|???|Medium/Low?|Medium|Medium?|Small?|
+|Maturity|High|High|High|High|Medium|???|High?|High?|Medium|High?|
+|Binary size|Small|Small|Medium|Small|Small|???|Medium/Low?|Medium|Small|Small?|
 |System libraries dependencies|Low|Low|Low|Low|Low, small std lib|???|OpenSSL|OpenSSL|OpenSSL or MbedTLS|Libcurl|
 |Manual Memory management|Yes|Yes|Yes, but good GC|Yes|Yes|Yes|Yes, stdlib needs GC|???|Buggy|Yes, stdlib needs GC|
 |Syntax Modernity|Low|Medium|Medium|Medium|Medium|High|High|High|Medium|Medium?|
